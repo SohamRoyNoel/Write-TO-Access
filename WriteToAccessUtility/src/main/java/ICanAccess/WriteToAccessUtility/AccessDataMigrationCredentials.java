@@ -1,0 +1,10 @@
+package ICanAccess.WriteToAccessUtility;
+
+public class AccessDataMigrationCredentials {
+	
+	// Location To Your Database
+    public static String databaseConnectionURL = "jdbc:ucanaccess:////D://New Java Workspace//WriteToAccessUtility//WriteToAccessUtility//SampleAccessDatabase//TestDatabase.accdb;showSchema=true";
+
+    
+    
+}

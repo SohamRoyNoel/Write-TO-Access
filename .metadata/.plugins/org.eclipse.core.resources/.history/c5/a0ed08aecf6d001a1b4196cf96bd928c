@@ -1,0 +1,30 @@
+package ICanAccess.WriteToAccessUtility;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.text.ParseException;
+import java.util.List;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	String databaseURL = AccessDataMigrationCredentials.databaseConnectionURL;
+    	
+    	try (Connection connection = DriverManager.getConnection(databaseURL)) {
+    		
+    		 // get All of the Listed Values
+
+           // List<String> navigationValues = ValueParser.navHolder;
+    		
+    		
+    	} catch (SQLException | ParseException ex) {
+            ex.printStackTrace();
+       }
+    }
+}

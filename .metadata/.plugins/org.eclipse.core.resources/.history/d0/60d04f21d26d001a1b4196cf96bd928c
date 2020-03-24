@@ -1,0 +1,9 @@
+package ICanAccess.WriteToAccessUtility.models;
+
+public class CreateList {
+
+	public static void getListReady() {
+		
+	}
+	
+}

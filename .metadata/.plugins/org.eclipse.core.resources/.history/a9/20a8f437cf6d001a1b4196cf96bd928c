@@ -1,0 +1,17 @@
+package ICanAccess.WriteToAccessUtility;
+
+public class AccessDataMigrationCredentials {
+
+	private String databaseURL;
+
+	// Location To Your Database
+    public static String databaseConnectionURL = "jdbc:ucanaccess://////ENTSSERVER85//Cognizant//Soham//My Projects//Performence Access Databases//FinalDatabaseEntry//PerformanceLightHouse-0.1-Beta.accdb;showSchema=true";
+
+    public String getDatabaseURL() {
+          return databaseURL;
+    }
+    public void setDatabaseURL(String databaseURL) {
+          this.databaseURL = databaseURL;
+    }
+    
+}

@@ -1,0 +1,10 @@
+package ICanAccess.WriteToAccessUtility.models;
+
+public class PojoClass {
+
+	String TestScenarioID;
+	String TestScenarioID;
+	String TestScenarioID;
+	String TestScenarioID;
+	
+}

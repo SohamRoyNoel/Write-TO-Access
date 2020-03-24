@@ -1,0 +1,5 @@
+package ICanAccess.WriteToAccessUtility;
+
+public class AccessDataMigrationCredentials {
+
+}

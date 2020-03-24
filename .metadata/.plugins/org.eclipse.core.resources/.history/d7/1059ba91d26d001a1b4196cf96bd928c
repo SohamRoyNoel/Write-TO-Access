@@ -1,0 +1,19 @@
+package ICanAccess.WriteToAccessUtility.models;
+
+public class PojoClass {
+
+	String TestScenarioID;
+	String Application_ID;
+	String Page_ID;
+	String Nav_UnloadEvent;
+	
+	public PojoClass(String testScenarioID, String application_ID, String page_ID, String nav_UnloadEvent) {
+		TestScenarioID = testScenarioID;
+		Application_ID = application_ID;
+		Page_ID = page_ID;
+		Nav_UnloadEvent = nav_UnloadEvent;
+	}
+	
+	
+	
+}

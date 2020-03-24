@@ -1,0 +1,10 @@
+package ICanAccess.WriteToAccessUtility.models;
+
+public class PojoClass {
+
+	String TestScenarioID;
+	String Application_ID;
+	String Page_ID;
+	String Nav_UnloadEvent;
+	
+}

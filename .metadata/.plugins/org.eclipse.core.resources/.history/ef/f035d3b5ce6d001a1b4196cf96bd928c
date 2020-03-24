@@ -1,0 +1,5 @@
+package ICanAccess.WriteToAccessUtility.queries;
+
+public class QueryLibrary {
+
+}

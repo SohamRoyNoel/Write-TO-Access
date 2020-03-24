@@ -1,0 +1,19 @@
+package ICanAccess.WriteToAccessUtility;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	String databaseURL = AccessDataMigrationCredentials.databaseConnectionURL;
+    	
+    	try (Connection connection = DriverManager.getConnection(databaseURL)) {
+    		
+    	} catch (SQLException | ParseException ex) {
+            ex.printStackTrace();
+       }
+    }
+}

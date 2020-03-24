@@ -1,0 +1,486 @@
+2020-03-24 18:10:09,411 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-03-24 18:11:21,779 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\pom.xml
+2020-03-24 18:11:27,365 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ICanAccess:WriteToAccessUtility:0.0.1-SNAPSHOT @ D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\pom.xml.
+2020-03-24 18:11:28,520 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WriteToAccessUtility/src/main/java
+2020-03-24 18:11:28,556 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WriteToAccessUtility/src/test/java
+2020-03-24 18:11:29,840 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2020-03-24 18:11:30,340 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:11:30,340 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:11:30,341 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:11:30,341 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:13:38,533 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:13:38,534 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:13:38,535 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:13:38,535 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:13:39,560 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:13:39,560 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:13:39,561 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:13:39,561 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:14:05,111 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:14:05,111 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:14:05,112 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:14:05,112 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:14:56,059 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:14:56,059 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:14:56,060 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:14:56,060 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:15:32,438 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:15:32,438 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:15:32,439 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:15:32,439 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:15:48,422 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:15:48,422 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:15:48,423 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:15:48,423 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:22:25,598 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:22:25,598 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:22:25,599 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:22:25,600 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:25:17,130 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:25:17,130 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:25:17,131 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:25:17,131 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:26:24,717 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:26:24,717 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:26:24,718 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:26:24,718 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:28:55,397 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:28:55,397 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:28:55,397 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:28:55,398 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:29:12,690 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:29:12,691 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:29:12,691 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:29:12,691 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:29:36,727 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:29:36,727 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:29:36,728 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:29:36,728 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:29:49,262 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:29:49,262 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:29:49,263 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:29:49,263 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:30:06,436 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:30:06,436 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:30:06,436 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:30:06,436 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:30:23,522 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:30:23,522 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:30:23,524 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:30:23,524 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:31:01,189 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:31:01,189 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:31:01,190 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:31:01,190 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:32:13,577 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:32:13,577 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:32:13,578 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:32:13,578 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:44:22,862 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:44:22,863 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:44:22,863 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:44:22,863 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:45:19,209 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:45:19,209 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:45:19,209 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:45:19,209 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:45:31,371 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:45:31,371 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:45:31,371 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:45:31,371 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:45:58,855 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:45:58,855 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:45:58,855 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:45:58,855 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:46:16,824 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:46:16,824 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:46:16,825 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:46:16,825 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:46:52,090 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:46:52,090 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:46:52,091 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:46:52,091 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:47:14,822 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:47:14,822 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:47:14,822 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:47:14,822 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:48:25,883 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:48:25,883 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:48:25,884 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:48:25,884 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:49:45,916 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:49:45,916 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:49:45,917 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:49:45,917 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:50:06,797 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:50:06,797 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:50:06,798 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:50:06,798 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:50:40,540 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:50:40,540 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:50:40,540 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:50:40,540 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:50:55,689 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:50:55,690 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:50:55,690 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:50:55,690 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:51:13,376 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:51:13,377 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:51:13,377 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:51:13,377 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:51:33,299 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:51:33,299 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:51:33,300 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:51:33,300 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:51:45,507 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:51:45,507 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:51:45,508 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:51:45,508 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:52:08,841 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:52:08,841 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:52:08,842 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:52:08,842 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:52:54,498 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:52:54,498 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:52:54,498 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:52:54,498 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:53:00,968 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:53:00,968 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:53:00,969 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:53:00,969 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:53:08,089 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:53:08,089 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:53:08,089 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:53:08,089 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:53:49,251 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:53:49,251 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:53:49,252 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:53:49,252 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:54:04,737 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:54:04,737 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:54:04,738 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:54:04,738 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:54:19,276 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:54:19,276 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:54:19,277 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:54:19,277 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:54:31,665 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:54:31,665 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:54:31,666 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:54:31,666 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:54:41,269 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:54:41,269 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:54:41,270 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:54:41,270 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:55:04,924 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:55:04,924 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:55:04,925 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:55:04,925 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:55:09,004 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:55:09,004 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:55:09,005 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:55:09,005 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:55:18,011 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:55:18,012 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:55:18,013 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:55:18,013 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:55:32,490 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:55:32,491 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:55:32,491 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:55:32,491 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:55:53,586 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:55:53,586 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:55:53,586 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:55:53,587 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:56:06,337 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:56:06,337 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:56:06,337 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:56:06,337 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:56:15,262 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:56:15,262 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:56:15,263 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:56:15,263 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:56:22,874 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:56:22,874 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:56:22,874 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:56:22,874 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:56:58,034 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:56:58,034 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:56:58,035 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:56:58,035 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:58:18,321 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:58:18,321 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:58:18,322 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:58:18,322 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:58:29,830 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:58:29,830 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:58:29,830 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:58:29,830 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:58:51,815 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:58:51,815 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 18:58:51,815 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 18:58:51,815 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 18:59:54,001 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ICanAccess:WriteToAccessUtility:0.0.1-SNAPSHOT @ D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\pom.xml.
+2020-03-24 18:59:54,902 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ucanaccess/ucanaccess/4.0.4/ucanaccess-4.0.4.pom
+2020-03-24 18:59:55,125 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ucanaccess/ucanaccess/4.0.4/ucanaccess-4.0.4.pom
+2020-03-24 18:59:55,312 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.3.1/hsqldb-2.3.1.pom
+2020-03-24 18:59:55,486 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.3.1/hsqldb-2.3.1.pom
+2020-03-24 18:59:55,665 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/healthmarketscience/jackcess/jackcess/2.1.11/jackcess-2.1.11.pom
+2020-03-24 18:59:55,841 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/healthmarketscience/jackcess/jackcess/2.1.11/jackcess-2.1.11.pom
+2020-03-24 18:59:56,020 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/healthmarketscience/openhms-parent/1.1.8/openhms-parent-1.1.8.pom
+2020-03-24 18:59:56,207 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/healthmarketscience/openhms-parent/1.1.8/openhms-parent-1.1.8.pom
+2020-03-24 18:59:56,427 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.pom
+2020-03-24 18:59:56,612 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.pom
+2020-03-24 18:59:56,905 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ucanaccess/ucanaccess/4.0.4/ucanaccess-4.0.4.jar
+2020-03-24 18:59:58,190 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ucanaccess/ucanaccess/4.0.4/ucanaccess-4.0.4.jar
+2020-03-24 18:59:58,363 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.3.1/hsqldb-2.3.1.jar
+2020-03-24 19:00:03,363 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.3.1/hsqldb-2.3.1.jar
+2020-03-24 19:00:03,533 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/healthmarketscience/jackcess/jackcess/2.1.11/jackcess-2.1.11.jar
+2020-03-24 19:00:12,607 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/healthmarketscience/jackcess/jackcess/2.1.11/jackcess-2.1.11.jar
+2020-03-24 19:00:12,771 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.jar
+2020-03-24 19:00:14,719 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.jar
+2020-03-24 19:00:16,323 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:00:16,323 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:00:16,324 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:00:16,324 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:00:17,417 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:00:17,417 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:00:17,417 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:00:17,417 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:00:17,928 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ucanaccess/ucanaccess/4.0.4/ucanaccess-4.0.4-sources.jar
+2020-03-24 19:00:18,961 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ucanaccess/ucanaccess/4.0.4/ucanaccess-4.0.4-sources.jar
+2020-03-24 19:00:19,161 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.sf.ucanaccess:ucanaccess:4.0.4
+2020-03-24 19:00:19,835 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.3.1/hsqldb-2.3.1-sources.jar
+2020-03-24 19:00:29,492 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ICanAccess:WriteToAccessUtility:0.0.1-SNAPSHOT @ D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\pom.xml.
+2020-03-24 19:00:30,393 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.4.1/hsqldb-2.4.1.pom
+2020-03-24 19:00:30,570 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.4.1/hsqldb-2.4.1.pom
+2020-03-24 19:00:30,752 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.4.1/hsqldb-2.4.1.jar
+2020-03-24 19:00:46,556 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.3.1/hsqldb-2.3.1-sources.jar
+2020-03-24 19:00:46,881 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hsqldb:hsqldb:2.3.1
+2020-03-24 19:00:47,563 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.4.1/hsqldb-2.4.1.jar
+2020-03-24 19:01:10,023 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.4.1/hsqldb-2.4.1.jar
+2020-03-24 19:01:10,256 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:01:10,256 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:01:10,257 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:01:10,257 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:01:10,283 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-24 19:01:10,533 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ICanAccess:WriteToAccessUtility:0.0.1-SNAPSHOT @ D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\pom.xml.
+2020-03-24 19:01:10,613 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WriteToAccessUtility/src/main/java
+2020-03-24 19:01:10,614 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WriteToAccessUtility/src/test/java
+2020-03-24 19:01:10,700 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-03-24 19:01:11,438 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:01:11,438 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:01:11,439 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:01:11,439 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:01:41,010 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.4.1/hsqldb-2.4.1.jar
+2020-03-24 19:01:41,659 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/healthmarketscience/jackcess/jackcess/2.1.11/jackcess-2.1.11-sources.jar
+2020-03-24 19:02:02,582 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/healthmarketscience/jackcess/jackcess/2.1.11/jackcess-2.1.11-sources.jar
+2020-03-24 19:02:02,746 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.healthmarketscience.jackcess:jackcess:2.1.11
+2020-03-24 19:02:04,355 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar
+2020-03-24 19:02:06,272 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar
+2020-03-24 19:02:06,404 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-lang:commons-lang:2.6
+2020-03-24 19:02:07,679 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3-sources.jar
+2020-03-24 19:02:08,716 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3-sources.jar
+2020-03-24 19:02:08,944 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.1.3
+2020-03-24 19:02:08,951 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.healthmarketscience.jackcess:jackcess:2.1.11
+2020-03-24 19:02:08,958 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-lang:commons-lang:2.6
+2020-03-24 19:02:08,964 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.1.3
+2020-03-24 19:02:10,220 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.4.1/hsqldb-2.4.1-sources.jar
+2020-03-24 19:02:13,853 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.4.1/hsqldb-2.4.1-sources.jar
+2020-03-24 19:02:13,964 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hsqldb:hsqldb:2.4.1
+2020-03-24 19:02:13,970 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.healthmarketscience.jackcess:jackcess:2.1.11
+2020-03-24 19:02:13,976 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-lang:commons-lang:2.6
+2020-03-24 19:02:13,981 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.1.3
+2020-03-24 19:02:13,987 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hsqldb:hsqldb:2.4.1
+2020-03-24 19:02:13,993 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.healthmarketscience.jackcess:jackcess:2.1.11
+2020-03-24 19:02:14,000 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-lang:commons-lang:2.6
+2020-03-24 19:02:14,006 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.1.3
+2020-03-24 19:02:14,011 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hsqldb:hsqldb:2.4.1
+2020-03-24 19:02:14,178 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:02:14,178 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:02:14,179 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:02:14,179 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:03:43,679 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:03:43,679 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:03:43,680 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:03:43,680 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:04:56,110 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:04:56,111 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:04:56,111 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:04:56,111 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:15:33,710 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:15:33,711 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:15:33,711 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:15:33,711 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:15:53,313 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:15:53,313 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:15:53,314 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:15:53,314 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:18:19,059 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:18:19,059 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:18:19,059 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:18:19,059 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:20:36,719 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:20:36,720 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:20:36,721 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:20:36,721 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:20:42,186 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:20:42,186 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:20:42,187 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:20:42,187 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:21:54,116 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:21:54,116 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:21:54,116 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:21:54,116 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:23:20,951 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:23:20,951 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:23:20,952 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:23:20,952 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:25:21,531 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:25:21,531 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:25:21,532 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:25:21,532 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:25:50,434 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:25:50,435 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:25:50,435 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:25:50,435 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:28:28,259 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:28:28,259 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:28:28,260 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:28:28,260 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:30:38,080 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-24 19:30:38,335 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ICanAccess:WriteToAccessUtility:0.0.1-SNAPSHOT @ D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\pom.xml.
+2020-03-24 19:30:38,632 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WriteToAccessUtility/src/main/java
+2020-03-24 19:30:38,632 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WriteToAccessUtility/src/test/java
+2020-03-24 19:30:38,705 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-03-24 19:30:38,900 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:30:38,901 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:30:38,902 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:30:38,902 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:30:41,996 [Worker-43: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ICanAccess:WriteToAccessUtility:0.0.1-SNAPSHOT @ D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\pom.xml.
+2020-03-24 19:30:50,657 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ucanaccess/ucanaccess/3.0.4/ucanaccess-3.0.4.pom
+2020-03-24 19:30:51,052 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ucanaccess/ucanaccess/3.0.4/ucanaccess-3.0.4.pom
+2020-03-24 19:30:51,359 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/healthmarketscience/jackcess/jackcess/2.1.3/jackcess-2.1.3.pom
+2020-03-24 19:30:51,673 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/healthmarketscience/jackcess/jackcess/2.1.3/jackcess-2.1.3.pom
+2020-03-24 19:30:51,986 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/healthmarketscience/openhms-parent/1.1.4/openhms-parent-1.1.4.pom
+2020-03-24 19:30:52,312 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/healthmarketscience/openhms-parent/1.1.4/openhms-parent-1.1.4.pom
+2020-03-24 19:30:52,723 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ucanaccess/ucanaccess/3.0.4/ucanaccess-3.0.4.jar
+2020-03-24 19:30:54,321 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ucanaccess/ucanaccess/3.0.4/ucanaccess-3.0.4.jar
+2020-03-24 19:30:54,629 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/healthmarketscience/jackcess/jackcess/2.1.3/jackcess-2.1.3.jar
+2020-03-24 19:30:55,601 [Worker-43: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/healthmarketscience/jackcess/jackcess/2.1.3/jackcess-2.1.3.jar
+2020-03-24 19:30:55,952 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:30:55,952 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:30:55,952 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:30:55,952 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:30:55,968 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-24 19:30:56,159 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ICanAccess:WriteToAccessUtility:0.0.1-SNAPSHOT @ D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\pom.xml.
+2020-03-24 19:30:56,267 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WriteToAccessUtility/src/main/java
+2020-03-24 19:30:56,268 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WriteToAccessUtility/src/test/java
+2020-03-24 19:30:56,315 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-03-24 19:30:57,045 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:30:57,045 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:30:57,046 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:30:57,046 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:30:58,374 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ucanaccess/ucanaccess/3.0.4/ucanaccess-3.0.4-sources.jar
+2020-03-24 19:30:59,742 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ucanaccess/ucanaccess/3.0.4/ucanaccess-3.0.4-sources.jar
+2020-03-24 19:30:59,868 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.sf.ucanaccess:ucanaccess:3.0.4
+2020-03-24 19:31:01,101 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/healthmarketscience/jackcess/jackcess/2.1.3/jackcess-2.1.3-sources.jar
+2020-03-24 19:31:03,086 [Worker-46: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/healthmarketscience/jackcess/jackcess/2.1.3/jackcess-2.1.3-sources.jar
+2020-03-24 19:31:03,190 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.healthmarketscience.jackcess:jackcess:2.1.3
+2020-03-24 19:31:03,196 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.sf.ucanaccess:ucanaccess:3.0.4
+2020-03-24 19:31:03,202 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.healthmarketscience.jackcess:jackcess:2.1.3
+2020-03-24 19:31:03,209 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.sf.ucanaccess:ucanaccess:3.0.4
+2020-03-24 19:31:03,214 [Worker-46: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.healthmarketscience.jackcess:jackcess:2.1.3
+2020-03-24 19:31:03,344 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:31:03,344 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:31:03,344 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:31:03,344 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:31:29,183 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:31:29,183 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:31:29,183 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:31:29,183 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:31:46,814 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:31:46,814 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:31:46,815 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:31:46,815 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:32:51,522 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:32:51,522 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:32:51,522 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:32:51,523 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:32:54,987 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ICanAccess:WriteToAccessUtility:0.0.1-SNAPSHOT @ D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\pom.xml.
+2020-03-24 19:32:55,073 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:32:55,073 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:32:55,074 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:32:55,074 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:32:56,202 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:32:56,202 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:32:56,203 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:32:56,203 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:33:01,791 [Worker-45: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-24 19:33:02,009 [Worker-45: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ICanAccess:WriteToAccessUtility:0.0.1-SNAPSHOT @ D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\pom.xml.
+2020-03-24 19:33:02,078 [Worker-45: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WriteToAccessUtility/src/main/java
+2020-03-24 19:33:02,079 [Worker-45: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WriteToAccessUtility/src/test/java
+2020-03-24 19:33:02,165 [Worker-45: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-03-24 19:33:02,317 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:33:02,317 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:33:02,318 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:33:02,318 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:33:09,458 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:33:09,458 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:33:09,458 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:33:09,459 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:35:16,694 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:35:16,694 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:35:16,694 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:35:16,694 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:37:34,237 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:37:34,237 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:37:34,238 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:37:34,238 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:41:13,854 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:41:13,854 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:41:13,855 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:41:13,855 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:43:39,932 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:43:39,932 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:43:39,933 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:43:39,933 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:43:45,480 [Worker-52: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-24 19:43:45,693 [Worker-52: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ICanAccess:WriteToAccessUtility:0.0.1-SNAPSHOT @ D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\pom.xml.
+2020-03-24 19:43:45,759 [Worker-52: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WriteToAccessUtility/src/main/java
+2020-03-24 19:43:45,759 [Worker-52: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WriteToAccessUtility/src/test/java
+2020-03-24 19:43:45,847 [Worker-52: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-03-24 19:43:45,995 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:43:45,995 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:43:45,996 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:43:45,996 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:43:48,197 [Worker-52: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ICanAccess:WriteToAccessUtility:0.0.1-SNAPSHOT @ D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\pom.xml.
+2020-03-24 19:43:48,270 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:43:48,270 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:43:48,271 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:43:48,271 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:43:49,385 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:43:49,385 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:43:49,385 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:43:49,386 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:43:54,575 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-24 19:43:54,778 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ICanAccess:WriteToAccessUtility:0.0.1-SNAPSHOT @ D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\pom.xml.
+2020-03-24 19:43:54,855 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WriteToAccessUtility/src/main/java
+2020-03-24 19:43:54,855 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WriteToAccessUtility/src/test/java
+2020-03-24 19:43:54,893 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-03-24 19:43:55,044 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:43:55,045 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:43:55,046 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:43:55,046 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:44:03,352 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:44:03,353 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:44:03,353 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:44:03,353 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:44:19,016 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:44:19,016 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:44:19,016 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:44:19,016 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources
+2020-03-24 19:44:42,942 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:44:42,942 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\main\resources
+2020-03-24 19:44:42,942 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 19:44:42,942 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\New Java Workspace\WriteToAccessUtility\WriteToAccessUtility\src\test\resources

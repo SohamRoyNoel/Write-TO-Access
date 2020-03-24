@@ -1,0 +1,55 @@
+package ICanAccess.WriteToAccessUtility;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+import java.text.ParseException;
+import java.util.List;
+
+import ICanAccess.WriteToAccessUtility.models.CreateList;
+import ICanAccess.WriteToAccessUtility.models.PojoClass;
+import ICanAccess.WriteToAccessUtility.queries.QueryLibrary;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+	public static void main( String[] args )
+	{
+		String databaseURL = AccessDataMigrationCredentials.databaseConnectionURL;
+
+		try (Connection connection = DriverManager.getConnection(databaseURL)) {
+
+			// get All of the Listed Values
+
+			 List<PojoClass> navigationValues = CreateList.getList();
+
+			// Insert some data into table.
+
+			int nRowsInserted = 0;
+
+			for (PojoClass nav : navigationValues) {
+
+				PreparedStatement preparedStatement = connection.prepareStatement(QueryLibrary.insertIntoNavigationTable);
+//				navtemp = nav.split(",");
+//				preparedStatement.setInt(1, Integer.parseInt(navtemp[0])); // TestScenarioID
+				preparedStatement.setString(1, nav.getTestScenarioID()); // Nav_UnloadEvent
+				preparedStatement.setString(2, nav.getApplication_ID()); // Nav_RedirectEvent
+				preparedStatement.setString(3, nav.getPage_ID()); // Nav_AppCache
+				preparedStatement.setString(4, nav.getNav_UnloadEvent()); // Nav_TTFB
+//				SimpleDateFormat df = new SimpleDateFormat("MM/dd/yyyy hh:mm");
+//				java.util.Date date = df.parse(navtemp[12]);
+//				preparedStatement.setTimestamp(13, new java.sql.Timestamp(date.getTime())); // Nav_DateTimes
+				nRowsInserted += preparedStatement.executeUpdate();
+
+			}
+
+
+		} catch (SQLException | ParseException ex) {
+			ex.printStackTrace();
+		}
+	}
+}

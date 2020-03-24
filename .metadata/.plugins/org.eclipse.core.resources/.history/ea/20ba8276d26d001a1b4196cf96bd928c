@@ -1,0 +1,21 @@
+package ICanAccess.WriteToAccessUtility.models;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class CreateList {
+
+	public static void main(String args[]) {
+		
+		List<PojoClass> s = new ArrayList<PojoClass>();
+		
+		s.add(new PojoClass("A1", "B1", "C1", "D1"));
+		s.add(new PojoClass("A1", "B1", "C1", "D1"));
+		s.add(new PojoClass("A1", "B1", "C1", "D1"));
+		s.add(new PojoClass("A1", "B1", "C1", "D1"));
+		
+		System.out.println();
+		
+	}
+	
+}
